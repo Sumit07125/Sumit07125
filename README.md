@@ -133,15 +133,18 @@
 
 <br/>
 
-### 📊 GitHub Stats
-
+<!-- 📊 GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumit07125&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=Sumit07125&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=450&height=40&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit07125&layout=compact&theme=tokyonight&hide_border=true" width="55%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumit07125&show_icons=true&title_color=22D3EE&icon_color=6366F1&text_color=E0E7FF&bg_color=0F172A&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=Sumit07125&stroke=22D3EE&ring=6366F1&fire=22D3EE&currStreakNum=E0E7FF&sideNums=E0E7FF&currStreakLabel=6366F1&sideLabels=6366F1&dates=E0E7FF&background=0F172A&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit07125&layout=compact&title_color=22D3EE&text_color=E0E7FF&bg_color=0F172A&hide_border=true" width="55%"/>
 </p>
 
 ---
