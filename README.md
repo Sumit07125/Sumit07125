@@ -22,14 +22,18 @@
   <a href="https://sumitmali.online"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge"/></a>
   <a href="https://github.com/Sumit07125"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+<br/>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line"/>
 </p>
-
+<br/>
 <!-- ═══════════════════════ ⚡ TECH ARSENAL ⚡ ═══════════════════════ -->
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=450&height=40&lines=%E2%9A%A1+Tech+Arsenal" alt="Tech Arsenal"/>
 </div>
+
+<br/>
 
 <!-- ⚡ Languages & ML / DL -->
 <p align="center"><img src="https://img.shields.io/badge/%E2%9A%A1_LANGUAGES_%C2%B7_ML_%C2%B7_DL-0F172A?style=flat-square&labelColor=6366F1" height="20"/></p>
@@ -121,26 +125,18 @@
 </marquee>
 </div>
 
-<p align="center">
+<div align="center">
   <img src="https://camo.githubusercontent.com/d285d770d9c775fdb9795a5ad816ac7b3622c5fbb324f5b379adf5ae11a2bd97/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62332f32362f35312f62333236353137636438636134346239333961316265653431613766313033632e676966" alt="Tech Animation"/>
-</p>
+</div>
 
-<!-- 🚀 Featured Projects -->
+<!-- 📊 GitHub Stats -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=450&height=40&lines=%F0%9F%9A%80+Featured+Projects" alt="Featured Projects"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=450&height=40&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats"/>
 </p>
 
-> ### 🔮 Transformer Mogambo — GPT-Style LLM Built From Scratch
-> A GPT-2-style Large Language Model, hand-built in PyTorch — no shortcuts, no pre-built LLM libraries.
-> - Implemented multi-head self-attention, positional encoding, layer norm, and feed-forward blocks.
-> - Built a custom tokenizer; trained 10,000+ iterations with dropout regularization to convergence.
-
-<br/>
-
-> ### 🏥 HealthTrack — AI-Powered Health Monitoring Platform
-> A full-stack, three-role health platform (patients, doctors, pharmacies) with a role-aware AI assistant.
-> - Appointment booking, real-time prescription routing, and QR-code prescription transfers.
-> - NumPy-vectorized Haversine hospital search over 50k+ records resolving in 1–3ms.
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sumit07125&stroke=22D3EE&ring=6366F1&fire=22D3EE&currStreakNum=E0E7FF&sideNums=E0E7FF&currStreakLabel=6366F1&sideLabels=6366F1&dates=E0E7FF&background=0F172A&hide_border=true" width="70%"/>
+</p>
 
 ---
 
