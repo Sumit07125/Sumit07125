@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6366F1,100:22D3EE&height=220&section=header&text=Sumit%20Mali&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%26%20AI%20Engineer&descAlignY=55&descSize=18&descColor=E0E7FF" width="100%"/>
 </p>
 
+<!-- ================= CODING GIF ================= -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/b3/26/51/b32651cd8ca44b939a1bee41a7f103c.gif" width="480" alt="Coding Animation"/>
+</p>
+
 <!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -19,6 +24,7 @@
   <a href="https://linkedin.com/in/sumitmali07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sumitmali07125@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://sumitmali.online"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge"/></a>
+  <a href="https://github.com/Sumit07125"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -55,30 +61,38 @@
 
 ### 🛠️ Tech Arsenal
 
-**Core Languages & Deep Learning**
+**⚡ Core Languages & Deep Learning**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,js,bash,pytorch,tensorflow,sklearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,ts,c,cpp,bash,pytorch,tensorflow,sklearn&theme=dark&perline=10" />
 </p>
 
-**Web, Databases & Tools**
+**🌐 Web, Databases & DevOps**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,react,nodejs,spring,mysql,mongodb,git,github,docker,postman,maven&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,react,nextjs,redux,nodejs,express,spring,flask,fastapi,bootstrap,mysql,mongodb,postgres,redis,firebase,aws,docker,kubernetes,jenkins,git,github,linux,vscode&theme=dark&perline=13" />
 </p>
 
-**GenAI, NLP & Agentic AI Toolkit**
+**🤖 GenAI, NLP & Agentic AI Toolkit**
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/RAG_Pipelines-6366F1?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Sentence--Transformers-22D3EE?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Claude_API-CC785C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Agno_Framework-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MLOps-6366F1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sentence--Transformers-22D3EE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agno_Framework-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector_Databases-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Transformer_Architecture-FF4B4B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Reinforcement_Learning_(DQN)-22D3EE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLOps-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CNN_%7C_RNN-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Semantic_Search-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Fine--tuning-22D3EE?style=for-the-badge"/>
 </p>
 
 ---
@@ -86,7 +100,6 @@
 ### 🚀 Featured Projects
 
 #### 🔮 [Transformer Mogambo — GPT-Style LLM Built From Scratch](https://github.com/Sumit07125/transformer-mogambo)
-<!-- verify/replace this repo link with the real one if the slug differs -->
 *A GPT-2-style Large Language Model, hand-built in PyTorch — no shortcuts, no pre-built LLM libraries.*
 
 <p align="left">
@@ -95,11 +108,10 @@
   <img src="https://img.shields.io/badge/Custom_Tokenizer-22D3EE?style=flat-square"/>
 </p>
 
-- Implemented multi-head self-attention, positional encoding, layer norm, and feed-forward blocks from the "Attention Is All You Need" paper — no pre-built LLM libraries
+- Implemented multi-head self-attention, positional encoding, layer norm, and feed-forward blocks from the *"Attention Is All You Need"* paper — no pre-built LLM libraries
 - Built a custom tokenizer and NumPy-based preprocessing pipeline; trained 10,000+ iterations with dropout regularization to convergence, validated via qualitative output sampling
 
 #### 🏥 [HealthTrack — AI-Powered Health Monitoring Platform](https://github.com/Sumit07125/healthtrack)
-<!-- verify/replace this repo link with the real one if the slug differs -->
 *A full-stack, three-role health platform (patients, doctors, pharmacies) with a role-aware AI assistant — live on Vercel.*
 
 <p align="left">
@@ -114,7 +126,6 @@
 - Role-aware AI assistant (Agno + GPT-4) with JWT-scoped tool calls and real-time SSE streaming — zero cross-user data leakage enforced at the tool authorization layer
 
 #### 🌐 [Language-Agnostic Chatbot — Multilingual Institutional AI Assistant](https://github.com/Sumit07125/language-agnostic-chatbot)
-<!-- verify/replace this repo link with the real one if the slug differs -->
 *A multilingual RAG chatbot (Hindi, English, and regional languages) resolving student queries 24/7 from institutional PDFs.*
 
 <p align="left">
@@ -178,7 +189,7 @@ Shri Vile Parle Kelavani Mandal Institute of Technology, Dhule · 2023 – 2027 
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sumit07125/Sumit07125/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Sumit07125/Sumit07125/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
@@ -193,5 +204,5 @@ Shri Vile Parle Kelavani Mandal Institute of Technology, Dhule · 2023 – 2027 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:6366F1,100:0F172A&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:6366F1,100:0F172A&height=120&section=footer" width="100%"/>
 </p>
