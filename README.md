@@ -3,10 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6366F1,100:22D3EE&height=220&section=header&text=Sumit%20Mali&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%26amp%3B%20AI%20Engineer&descAlignY=55&descSize=18&descColor=E0E7FF" width="100%"/>
 </p>
 
-<!-- ================= CODING GIF ================= -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/b3/26/51/b32651cd8ca44b939a1bee41a7f103c.gif" width="480" alt="Coding Animation"/>
-</p>
 
 <!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
@@ -26,17 +22,15 @@
   <a href="https://sumitmali.online"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge"/></a>
   <a href="https://github.com/Sumit07125"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
----
-
+<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line"/>
+</p>
+<br/>
 <!-- ═══════════════════════ ⚡ TECH ARSENAL ⚡ ═══════════════════════ -->
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/d285d770d9c775fdb9795a5ad816ac7b3622c5fbb324f5b379adf5ae11a2bd97/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62332f32362f35312f62333236353137636438636134346239333961316265653431613766313033632e676966" alt="Tech Animation"/>
-  <br/>
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=450&height=40&lines=%E2%9A%A1+Tech+Arsenal" alt="Tech Arsenal"/>
-  <br/>
-  <sub><i>Every icon is alive — animated, vibrant, always in motion</i></sub>
 </div>
 
 <br/>
@@ -105,7 +99,9 @@
 </p>
 
 <!-- 🤖 GenAI & NLP & Agentic AI -->
-<p align="center"><img src="https://img.shields.io/badge/%F0%9F%A4%96_GENAI_%C2%B7_NLP_%C2%B7_AGENTIC_AI-0F172A?style=flat-square&labelColor=8B5CF6" height="20"/></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=400&height=35&lines=%F0%9F%A4%96+GenAI+%C2%B7+NLP+%C2%B7+Agentic+AI" alt="GenAI & NLP"/>
+</p>
 <div align="center">
 <marquee behavior="scroll" direction="right" scrollamount="4">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="24"/>&nbsp;
@@ -115,7 +111,9 @@
   <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" height="24"/>&nbsp;
   <img src="https://img.shields.io/badge/Sentence_Transformers-22D3EE?style=flat-square" height="24"/>&nbsp;
   <img src="https://img.shields.io/badge/Claude_API-CC785C?style=flat-square" height="24"/>&nbsp;
-  <img src="https://img.shields.io/badge/Agno-000000?style=flat-square" height="24"/>&nbsp;
+  <img src="https://img.shields.io/badge/Agno-000000?style=flat-square" height="24"/>
+</marquee>
+<marquee behavior="scroll" direction="left" scrollamount="5">
   <img src="https://img.shields.io/badge/Prompt_Eng-8B5CF6?style=flat-square" height="24"/>&nbsp;
   <img src="https://img.shields.io/badge/Vector_DBs-6366F1?style=flat-square" height="24"/>&nbsp;
   <img src="https://img.shields.io/badge/Transformers-FF4B4B?style=flat-square" height="24"/>&nbsp;
@@ -127,6 +125,13 @@
 </marquee>
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://camo.githubusercontent.com/d285d770d9c775fdb9795a5ad816ac7b3622c5fbb324f5b379adf5ae11a2bd97/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62332f32362f35312f62333236353137636438636134346239333961316265653431613766313033632e676966" alt="Tech Animation"/>
+</div>
+
+<br/>
 
 ### 📊 GitHub Stats
 
