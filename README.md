@@ -13,14 +13,11 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sumit07125&style=for-the-badge&color=6366F1" alt="Profile views"/>
-  <a href="https://sumitmali.online"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge"/></a>
+  <a href="https://sumitmali.online"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <img src="https://img.shields.io/github/followers/Sumit07125?style=for-the-badge&color=6366F1&label=Followers&logo=github&logoColor=white" alt="Followers"/>
 </p>
-<br/>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line"/>
-</p>
-<br/>
+
+---
 <!-- ═══════════════════════ ⚡ TECH ARSENAL ⚡ ═══════════════════════ -->
 
 <div align="center">
@@ -142,7 +139,13 @@
 
 ---
 
+### 📫 Let's Connect
 
+<p align="center">
+  <a href="mailto:sumitmali07125@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://sumitmali.online"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sumitmali07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:6366F1,100:0F172A&height=120&section=footer" width="100%"/>
