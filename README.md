@@ -1,16 +1,7 @@
 <!-- ================= HEADER BANNER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6366F1,100:22D3EE&height=220&section=header&text=Sumit%20Mali&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%26amp%3B%20Full-Stack%20Engineer&descAlignY=55&descSize=18&descColor=E0E7FF" width="100%"/>
-</p>
-
-
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6366F1,100:22D3EE&height=220&section=header&text=Sumit%20Mali&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%26amp%3B%20Full-Stack%20Engineer&descAlignY=55&descSize=18&descColor=E0E7FF" width="100%"/></p>
 <!-- ================= TYPING ANIMATION ================= -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&height=50&lines=Hi+there%2C+I+am+Sumit+Mali;AI%2FML+%26+Full-Stack+Engineer;Building+LLMs+from+Scratch+in+PyTorch;RAG+Pipelines+%2B+Agentic+AI+%2B+NLP;B.Tech+IT%2C+Class+of+2027" alt="Typing SVG"/>
-  </a>
-</p>
-
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&height=50&lines=Hi+there%2C+I+am+Sumit+Mali;AI%2FML+%26+Full-Stack+Engineer;Building+LLMs+from+Scratch+in+PyTorch;RAG+Pipelines+%2B+Agentic+AI+%2B+NLP;B.Tech+IT%2C+Class+of+2027" alt="Typing SVG"/></a></p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sumit07125&style=for-the-badge&color=6366F1" alt="Profile views"/>
   <a href="https://sumitmali.online"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
