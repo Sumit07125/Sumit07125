@@ -1,6 +1,6 @@
 <!-- ================= HEADER BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6366F1,100:22D3EE&height=220&section=header&text=Sumit%20Mali&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%26%20AI%20Engineer&descAlignY=55&descSize=18&descColor=E0E7FF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:6366F1,100:22D3EE&amp;height=220&amp;section=header&amp;text=Sumit%20Mali&amp;fontSize=46&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Machine%20Learning%20%26%20AI%20Engineer&amp;descAlignY=55&amp;descSize=18&amp;descColor=E0E7FF" width="100%"/>
 </p>
 
 <!-- ================= CODING GIF ================= -->
@@ -25,36 +25,6 @@
   <a href="mailto:sumitmali07125@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://sumitmali.online"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge"/></a>
   <a href="https://github.com/Sumit07125"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-### 🧠 About Me
-
-- 🎯 Entry-level **Machine Learning & AI Engineer** (B.Tech IT, Class of 2027) focused on deep learning, NLP, LLM engineering, and agentic AI
-- 🔬 Built a **GPT-2-style transformer LLM from scratch in PyTorch** — multi-head self-attention, positional encoding, and feed-forward blocks, with zero pre-built LLM libraries
-- 🤖 Shipped a **production-grade multilingual RAG chatbot** that performs semantic search over real institutional data, 24/7
-- 💼 Completed an industry internship at **Infosys Springboard**, building an LLM-powered banking assistant with live database integration
-- 🧩 Comfortable across the full stack — Python/PyTorch on one end, React/Node/Spring Boot on the other
-- 📍 Dhule, Maharashtra, India
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CGPA-8.11%2F10-6366F1?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Graduating-2027-22D3EE?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Open_to-ML%2FAI%20Engineer%20Roles-6366F1?style=flat-square"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumit07125&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=Sumit07125&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit07125&layout=compact&theme=tokyonight&hide_border=true" width="55%"/>
 </p>
 
 ---
@@ -93,6 +63,19 @@
   <img src="https://img.shields.io/badge/CNN_%7C_RNN-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Semantic_Search-8B5CF6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Fine--tuning-22D3EE?style=for-the-badge"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumit07125&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=Sumit07125&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit07125&layout=compact&theme=tokyonight&hide_border=true" width="55%"/>
 </p>
 
 ---
